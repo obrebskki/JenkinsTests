@@ -30,9 +30,6 @@ namespace TestNinja.Fundamentals
             return new PhoneNumber(area, major, minor);
         }
 
-        public override string ToString()
-        {
-            return String.Format($"({Area}){Major}-{Minor}");
-        }
+
     }
 }

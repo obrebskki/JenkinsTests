@@ -30,13 +30,13 @@ E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll
 E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.dll
 E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.dll
 E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.pdb
-E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll.config
 E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.xml
 E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.xml
-E:\NETProjects\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csprojAssemblyReference.cache
-E:\NETProjects\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CoreCompileInputs.cache
-E:\NETProjects\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CopyComplete
 E:\NETProjects\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.dll
 E:\NETProjects\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.pdb
+E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\NETProjects\TestNinja\TestNinja.UnitTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\NETProjects\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csprojResolveAssemblyReference.cache
